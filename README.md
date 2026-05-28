@@ -55,7 +55,7 @@ macOS direct-DMG installs need the same `xattr` quarantine step shown above.
 
 ## Updates
 
-- **Homebrew users**: `brew upgrade --cask agent-teams`
+- **Homebrew users**: `brew update && brew upgrade --cask agent-teams` (the `brew update` is required — otherwise the tap stays stale and brew reports "already on the latest")
 - **In-app**: Help menu → "Check for Updates…" (Windows auto-checks on launch;
   macOS is opt-in via that menu item)
 
