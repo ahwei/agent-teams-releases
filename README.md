@@ -23,6 +23,11 @@ launch is blocked by Gatekeeper. Allow it once with:
 ```bash
 xattr -dr com.apple.quarantine "/Applications/Agent Teams.app"
 ```
+How to update new version
+
+```bash
+ brew update && brew upgrade --cask agent-teams
+ ```
 
 Or right-click the app in `/Applications` → **Open** → confirm.
 
