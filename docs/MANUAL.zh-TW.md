@@ -1,5 +1,7 @@
 # Agent Teams 使用手冊
 
+> 🌐 **語言**：**繁體中文** · [English](MANUAL.en.md)
+
 Agent Teams 是一個在你自己電腦上執行的**唯讀**桌面儀表板，用來即時觀察
 [Claude Code](https://claude.ai/code) 的工作階段（session）以及它們所派生的
 agent 團隊——狀態、對話記錄、Token／成本、任務看板等等。所有資料都直接讀取你本機的

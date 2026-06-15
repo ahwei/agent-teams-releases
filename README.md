@@ -8,8 +8,8 @@ and the optional local browser mode binds to `127.0.0.1` only.
 This repository hosts release binaries and the in-app auto-update feed.
 The source code is in a separate repo (not publicly accessible).
 
-📖 **New here?** The [**User Guide**](docs/MANUAL.md) walks through every screen with
-screenshots (繁體中文).
+📖 **New here?** The User Guide walks through every screen with screenshots:
+[English](docs/MANUAL.en.md) · [繁體中文](docs/MANUAL.zh-TW.md).
 
 ![Agent Teams — Command Center](docs/images/01-command-center.png)
 
@@ -71,7 +71,8 @@ macOS direct-DMG installs need the same `xattr` quarantine step shown above.
 - **Settings** — edit `settings.json` (General toggles or Raw JSON) and the
   dashboard's own options in place.
 
-See the [**User Guide**](docs/MANUAL.md) for a screen-by-screen walkthrough.
+See the User Guide for a screen-by-screen walkthrough:
+[English](docs/MANUAL.en.md) · [繁體中文](docs/MANUAL.zh-TW.md).
 
 ## Updates
 
